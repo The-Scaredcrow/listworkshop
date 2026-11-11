@@ -1,4 +1,4 @@
-artists = ["will wood", "will wood and the tapeworms", "abba", "mitski", "chappel roan"]
+import data
 
-print(artists)
-print(len(artists))
+print(data.get_shopping_list())
+print(len(data.get_shopping_list()))
